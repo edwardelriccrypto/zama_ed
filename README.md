@@ -1,2 +1,1 @@
-# zama_ed
-zama ed elric
+# Project Helper CLI
